@@ -1,2 +1,2 @@
 # androidRandom
-A simple AndroidStudio project to sample how to use buttom with event to change a text view.
+A simple AndroidStudio project to sample how to use button with event to change a text view.
